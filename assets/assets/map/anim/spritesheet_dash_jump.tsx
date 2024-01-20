@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.10" tiledversion="1.10.2" name="spritesheet_dash_jump" tilewidth="64" tileheight="64" tilecount="16" columns="8">
- <image source="spritesheet_dash_jump.png" width="512" height="128"/>
+<tileset version="1.10" tiledversion="1.10.2" name="spritesheet_dash_jump" tilewidth="64" tileheight="64" tilecount="80" columns="8">
+ <image source="../../../arbuz.png" width="512" height="640"/>
  <tile id="0">
   <animation>
    <frame tileid="0" duration="42"/>

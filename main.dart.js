@@ -40471,13 +40471,13 @@ $S:449}
 A.N1.prototype={
 O(a){var s=A.ac2(null,""),r=new A.I(new Float64Array(2))
 r.bC(64)
-s=A.aEK(A.aEW(A.dQ(16,8,!1,0.042,r),s,"assets/map/anim/spritesheet_dash_deathFaint.png"),64)
+s=A.aEK(A.aEW(A.dQ(16,8,!1,0.042,r),s,"assets/map/anim/arbuz_run.png"),64)
 A.k4(a,B.b9,t.wr).toString
 return A.pc(A.a([s,B.a_G,A.ig("There was an error while fetching the leaderboard.",null)],t.p),B.be,B.aP,B.b1)}}
 A.N3.prototype={
 O(a){var s=A.ac2(null,""),r=new A.I(new Float64Array(2))
 r.bC(64)
-return A.aEK(A.aEW(A.dQ(16,8,!0,0.042,r),s,"assets/map/anim/spritesheet_dash_run.png"),64)}}
+return A.aEK(A.aEW(A.dQ(16,8,!0,0.042,r),s,"assets/map/anim/arbuz_run.png"),64)}}
 A.N0.prototype={
 O(a){var s,r,q,p=null
 A.k4(a,B.b9,t.wr).toString
