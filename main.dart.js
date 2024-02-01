@@ -40171,7 +40171,9 @@ A.auY.prototype={
 $1(a){return this.Qu(a)},
 Qu(a){var s=0,r=A.z(t.Gu),q,p=this
 var $async$$1=A.A(function(b,c){if(b===1)return A.w(c,r)
-while(true)switch(s){case 0:q=new A.oN(p.a,p.b,p.c,new A.Hl(a,new A.c4(null,null,t.Li)),p.d,p.e,null)
+while(true)switch(s){case 0:s=3
+return A.q(Telegram.WebApp.expand(),$async$$1)
+case 3:q=new A.oN(p.a,p.b,p.c,new A.Hl(a,new A.c4(null,null,t.Li)),p.d,p.e,null)
 s=1
 break
 case 1:return A.x(q,r)}})
